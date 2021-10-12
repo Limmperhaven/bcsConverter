@@ -1,0 +1,10 @@
+body {
+    background: #312b2b;
+    font-family: Paytone One;
+    overflow: hidden;
+}
+#app {
+    margin: 0 auto;
+    width: 100%;
+    height: 600px;
+}
